@@ -1,0 +1,14 @@
+# Translation using DeepL
+
+DeepLを用いた翻訳ツール
+
+# Features
+
+Pythonを用いてスクレイピングを行い、自動で翻訳します。
+
+def translateにテキストを与えてやることで翻訳可能
+
+# Installation
+
+pip install selenium
+
